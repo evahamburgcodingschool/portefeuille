@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/techs/</link>
+    <description>Recent content in Techs on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>javascript</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/techs/javascript/</link>
+      <pubDate>Tue, 11 Aug 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/techs/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firebase</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/techs/firebase/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/techs/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google maps</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/techs/google-maps/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/techs/google-maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/techs/react/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/techs/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website builder</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/techs/website-builder/</link>
+      <pubDate>Tue, 10 Sep 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/techs/website-builder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

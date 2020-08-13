@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website builder on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/techs/website-builder/</link>
+    <description>Recent content in website builder on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Tue, 10 Sep 2019 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/techs/website-builder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architect Website</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/architect/</link>
+      <pubDate>Tue, 10 Sep 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/architect/</guid>
+      <description>For a medium-sized interior architecture office specialized in corporate office spaces, I conceptionalized and realized their website relaunch.
+The website is made and runs on a site builder, thus is fully responsive. While resorting to the conventient drag and drop building block functionality of the builder, I still used a great deal of JavaScript code injections and custom CSS styling.
+Several features were incorporated at the customer&amp;rsquo;s request. The navigation shows font awesome sourced icons on hover and active.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bootstrap on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/designs/bootstrap/</link>
+    <description>Recent content in bootstrap on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/designs/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide Landing Page - in progress</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/guide/</link>
+      <pubDate>Tue, 11 Aug 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/guide/</guid>
+      <description>This website is a one-page homepage for a mountain and travel guide. It&amp;rsquo;s his first website, therefore he needs guidance to decide how he wants to showcase his services.
+The site shows a scrolling design with a major banner image and several parallax effects separating content. Past trips are showcased as grid tiles with modals for the details. For always fresh content, the active Facebook page is embedded.
+The layout was done with HTML, CSS and Bootstrap.</description>
+    </item>
+    
+  </channel>
+</rss>

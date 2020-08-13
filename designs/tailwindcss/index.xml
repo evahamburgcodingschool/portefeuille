@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tailwindcss on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/designs/tailwindcss/</link>
+    <description>Recent content in tailwindcss on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Thu, 25 Jun 2020 15:30:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/designs/tailwindcss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Travel Blog React</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-react/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-react/</guid>
+      <description>The final project of the Full Stack Web Development Program at Hamburg Coding School was also a travel blog but in React. I scored 15/15 points.
+I could have built up on the previous blog, but decided to work from scratch. Only images and places made it from the first travel blog to the second.
+The homepage is devided into a map with markers on one side and a collection of all preview cards of places I have visted on the other.</description>
+    </item>
+    
+    <item>
+      <title>Travel Blog Simple</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-simple/</link>
+      <pubDate>Fri, 17 Apr 2020 16:55:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-simple/</guid>
+      <description>The first project of my Full Stack Web Development Program at Hamburg Coding School was a travel blog using JavaScript, Google Maps and Firebase.
+The homepage is a map with markers on the geographic locations of places I have visted. At clicking a marker, a card with an image and a short description appears. The data on the cards is loaded from Firebase Database, while the images are stored locally. A login page performed through Firebase Authentication allows a user to see the collection of all blog posts, edit, and add new posts.</description>
+    </item>
+    
+  </channel>
+</rss>

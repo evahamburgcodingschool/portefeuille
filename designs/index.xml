@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/designs/</link>
+    <description>Recent content in Designs on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/designs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bootstrap</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/designs/bootstrap/</link>
+      <pubDate>Tue, 11 Aug 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/designs/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/designs/css/</link>
+      <pubDate>Tue, 11 Aug 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/designs/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/designs/html/</link>
+      <pubDate>Tue, 11 Aug 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/designs/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>font awesome icons</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/designs/font-awesome-icons/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/designs/font-awesome-icons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raw images</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/designs/raw-images/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/designs/raw-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tailwindcss</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/designs/tailwindcss/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/designs/tailwindcss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

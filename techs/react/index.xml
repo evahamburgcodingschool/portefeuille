@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/techs/react/</link>
+    <description>Recent content in react on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Thu, 25 Jun 2020 15:30:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/techs/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Travel Blog React</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-react/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-react/</guid>
+      <description>The final project of the Full Stack Web Development Program at Hamburg Coding School was also a travel blog but in React. I scored 15/15 points.
+I could have built up on the previous blog, but decided to work from scratch. Only images and places made it from the first travel blog to the second.
+The homepage is devided into a map with markers on one side and a collection of all preview cards of places I have visted on the other.</description>
+    </item>
+    
+  </channel>
+</rss>

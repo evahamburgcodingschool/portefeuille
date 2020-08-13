@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Eva Louise Dressel</title>
+    <link>https://evahamburgcodingschool.github.io/portefeuille/designs/html/</link>
+    <description>Recent content in html on Eva Louise Dressel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Eva Louise Dressel / dress.code</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://evahamburgcodingschool.github.io/portefeuille/designs/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide Landing Page - in progress</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/guide/</link>
+      <pubDate>Tue, 11 Aug 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/guide/</guid>
+      <description>This website is a one-page homepage for a mountain and travel guide. It&amp;rsquo;s his first website, therefore he needs guidance to decide how he wants to showcase his services.
+The site shows a scrolling design with a major banner image and several parallax effects separating content. Past trips are showcased as grid tiles with modals for the details. For always fresh content, the active Facebook page is embedded.
+The layout was done with HTML, CSS and Bootstrap.</description>
+    </item>
+    
+    <item>
+      <title>Travel Blog React</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-react/</link>
+      <pubDate>Thu, 25 Jun 2020 15:30:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-react/</guid>
+      <description>The final project of the Full Stack Web Development Program at Hamburg Coding School was also a travel blog but in React. I scored 15/15 points.
+I could have built up on the previous blog, but decided to work from scratch. Only images and places made it from the first travel blog to the second.
+The homepage is devided into a map with markers on one side and a collection of all preview cards of places I have visted on the other.</description>
+    </item>
+    
+    <item>
+      <title>Travel Blog Simple</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-simple/</link>
+      <pubDate>Fri, 17 Apr 2020 16:55:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/travel-blog-simple/</guid>
+      <description>The first project of my Full Stack Web Development Program at Hamburg Coding School was a travel blog using JavaScript, Google Maps and Firebase.
+The homepage is a map with markers on the geographic locations of places I have visted. At clicking a marker, a card with an image and a short description appears. The data on the cards is loaded from Firebase Database, while the images are stored locally. A login page performed through Firebase Authentication allows a user to see the collection of all blog posts, edit, and add new posts.</description>
+    </item>
+    
+    <item>
+      <title>Architect Website</title>
+      <link>https://evahamburgcodingschool.github.io/portefeuille/portfolio/architect/</link>
+      <pubDate>Tue, 10 Sep 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://evahamburgcodingschool.github.io/portefeuille/portfolio/architect/</guid>
+      <description>For a medium-sized interior architecture office specialized in corporate office spaces, I conceptionalized and realized their website relaunch.
+The website is made and runs on a site builder, thus is fully responsive. While resorting to the conventient drag and drop building block functionality of the builder, I still used a great deal of JavaScript code injections and custom CSS styling.
+Several features were incorporated at the customer&amp;rsquo;s request. The navigation shows font awesome sourced icons on hover and active.</description>
+    </item>
+    
+  </channel>
+</rss>
