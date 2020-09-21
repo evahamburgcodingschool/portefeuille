@@ -7,7 +7,7 @@ work: [web application javascript]
 techs: [javascript, google maps, firebase]
 designs: [html, css, tailwindcss, raw images]
 thumbnail: images/portfolio-travel-blog_03-2020.png
-projectUrl: https://sg-con.de
+projectUrl: https://github.com/evahamburgcodingschool/travelblog-js
 # testimonial:
 #   name: John Doe
 #   role: CEO @Example
